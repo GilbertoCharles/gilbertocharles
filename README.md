@@ -5,7 +5,7 @@
 <h3 align="center">Whoami?</h3>
 <p>
   Graduando de Ciência da Computação, entusiasta de Linux, OpenSource, I.A e machine learning. Pythonista 
-  e atualmente sou DEV na Fundação CERTI - Sapientia.
+  e atualmente <br> sou DEV na Fundação CERTI - Sapientia.
 
 </p>
 
