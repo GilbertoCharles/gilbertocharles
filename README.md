@@ -1,4 +1,7 @@
-![](images/image.gif)
+
+<div align="center">
+<img src="images/image.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">Whoami?</h3>
 <p>
   <samp>
