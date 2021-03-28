@@ -4,7 +4,8 @@
 </div>  
 <h3 align="center">Whoami?</h3>
 <p>
-  Graduando de Ciência da Computação, entusiasta de Linux, OpenSource, I.A e machine learning. Python está em meu coração e atualmente sou DEV na Fundação CERTI - Sapientia.
+  Graduando de Ciência da Computação, entusiasta de Linux, OpenSource, I.A e machine learning. Pythonista 
+  e atualmente sou DEV na Fundação CERTI - Sapientia.
 
 </p>
 
