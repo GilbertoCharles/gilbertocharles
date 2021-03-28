@@ -1,6 +1,6 @@
 
 <h3 align="center">Whoami</h3>
-<p align="center">
+<p>
   Computer science student, A.I and machine learning enthusiast, python lover and Dev at Fundação CERTI.
 </p>
 
