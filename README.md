@@ -1,2 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gilbertocharles.readme)
-![teste](http://127.0.0.1:8000/)
+![](https://github-readme-stats.vercel.app/api?username=gilbertocharles)
+
+![](https://komarev.com/ghpvc/?username=gilbertocharles&label=Views&style=flat&color=44473f)
+
+
