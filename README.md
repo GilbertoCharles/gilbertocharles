@@ -2,4 +2,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=gilbertocharles&label=Visualizações&style=flat&color=44473f)
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilbertocharles%2Fgilbertocharles&count_bg=%23BDD1AE&title_bg=%23555555&icon=flickr.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)](https://hits.seeyoufarm.com)
