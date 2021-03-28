@@ -1,4 +1,4 @@
-
+![](https://i.pinimg.com/originals/54/fb/c6/54fbc648ae374aa4b6d69d0c218885f6.gif)
 <h3 align="center">Whoami</h3>
 <p>
   <samp>Computer science student, A.I and machine learning enthusiast, python lover and Dev at Fundação CERTI.<samp>
